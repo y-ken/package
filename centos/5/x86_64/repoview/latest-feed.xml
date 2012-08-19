@@ -1,0 +1,205 @@
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Sun, 19 Aug 2012 23:52:28 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html+0:0.6-1.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html</link><pubDate>Sun, 19 Aug 2012 14:38:02 +0000</pubDate><title>Update: mod_rpaf-0.6-1</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; mod_rpaf
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		rpaf is for backend Apache servers what mod_proxy_add_forward is for
+frontend Apache servers. It does excactly the opposite of
+mod_proxy_add_forward written by Ask Bjørn Hansen. It will also work
+with mod_proxy that is distributed with Apache2 from version 2.0.38.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mod_rpaf-0.6-1.x86_64.rpm"&gt;mod_rpaf-0.6-1.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-client.html+0:5.0.87-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-client.html</link><pubDate>Thu, 26 Nov 2009 09:40:05 +0000</pubDate><title>Update: MySQL-client-5.0.87-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-client&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Client
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the standard MySQL clients and administration tools.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//MySQL-client-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-client-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;406 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-devel.html+0:5.0.87-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-devel.html</link><pubDate>Thu, 26 Nov 2009 09:40:05 +0000</pubDate><title>Update: MySQL-devel-5.0.87-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-devel&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Development header files and libraries
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the development header files and libraries
+necessary to develop MySQL client applications.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-server.html+0:5.0.87-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-server.html</link><pubDate>Thu, 26 Nov 2009 09:40:05 +0000</pubDate><title>Update: MySQL-server-5.0.87-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-server&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL: a very fast and reliable SQL database server
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		The MySQL(TM) software delivers a very fast, multi-threaded, multi-user,
+and robust SQL (Structured Query Language) database server. MySQL Server
+is intended for mission-critical, heavy-load production systems as well
+as for embedding into mass-deployed software. MySQL is a trademark of
+MySQL AB.
+Copyright (C) 2000-2007 MySQL AB
+This software comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to modify and redistribute it under the GPL license.
+The MySQL web site (http://www.mysql.com/) provides the latest
+news and information about the MySQL software. Also please see the
+documentation and the manual for more information.
+This package includes the MySQL server binary (incl. InnoDB) as well
+as related utilities to run and administrate a MySQL server.
+If you want to access and work with the database, you have to install
+the package "MySQL-client" as well!
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//MySQL-server-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-server-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17.1 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-shared.html+0:5.0.87-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/MySQL-shared.html</link><pubDate>Thu, 26 Nov 2009 09:40:05 +0000</pubDate><title>Update: MySQL-shared-5.0.87-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Shared libraries
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the shared libraries (*.so*) which certain
+languages and applications need to dynamically load and use MySQL.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//MySQL-shared-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-shared-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/senna.html+0:1.1.4-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/senna.html</link><pubDate>Thu, 26 Nov 2009 09:00:27 +0000</pubDate><title>Update: senna-1.1.4-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; senna&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Embeddable fulltext search engine
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		Senna is an embeddable fulltext search engine, which you
+can use in conjuction with various scripting languages
+and databases.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//senna-1.1.4-tritonn.1.0.12a.x86_64.rpm"&gt;senna-1.1.4-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12a&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mecab-ipadic.html+0:2.7.0.20070801-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mecab-ipadic.html</link><pubDate>Thu, 26 Nov 2009 08:55:29 +0000</pubDate><title>Update: mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mecab-ipadic&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; IPA dictionary for MeCab
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		MeCab IPA is a dictionary for MeCab using CRF estimation
+based on IPA corpus. This dictionary is for UTF-8 use.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a.x86_64.rpm"&gt;mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;24.3 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12a&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mecab.html+0:0.98-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mecab.html</link><pubDate>Thu, 26 Nov 2009 08:48:52 +0000</pubDate><title>Update: mecab-0.98-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mecab&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Yet Another Part-of-Speech and Morphological Analyzer
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		MeCab is a open source morphological analyzer which uses
+CRF (Conditional Random Fields) as the estimation of parameters.
+NOTE:
+You have to install MeCab dictionary rpm to make use
+of MeCab.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mecab-0.98-tritonn.1.0.12a.x86_64.rpm"&gt;mecab-0.98-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;912 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- mecab 0.98 for Tritonn 1.0.12a&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item></channel></rss>

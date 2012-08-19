@@ -1,4 +1,29 @@
-<rss version="2.0"><channel><title>y-ken.github.com</title><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/latest-feed.xml</link><description>Latest packages for y-ken.github.com</description><lastBuildDate>Sun, 19 Aug 2012 13:07:32 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mysql-mroonga.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mysql-mroonga.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Sun, 19 Aug 2012 23:52:31 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf.html+0:0.6-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf.html</link><pubDate>Sun, 19 Aug 2012 14:42:35 +0000</pubDate><title>Update: mod_rpaf-0.6-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; mod_rpaf
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		rpaf is for backend Apache servers what mod_proxy_add_forward is for
+frontend Apache servers. It does excactly the opposite of
+mod_proxy_add_forward written by Ask Bjørn Hansen. It will also work
+with mod_proxy that is distributed with Apache2 from version 2.0.38.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-0.6-1.el6.x86_64.rpm"&gt;mod_rpaf-0.6-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;6 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga&lt;br /&gt;
@@ -13,7 +38,7 @@ column store. Groonga is good at real-time update.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/mysql-mroonga-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;148 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -23,7 +48,7 @@ column store. Groonga is good at real-time update.
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mysql-mroonga-debuginfo.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mysql-mroonga-debuginfo.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-debuginfo-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-debuginfo-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-debuginfo&lt;br /&gt;
@@ -38,7 +63,7 @@ package or when debugging this package.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;664 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -48,7 +73,7 @@ package or when debugging this package.
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mysql-mroonga-doc.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mysql-mroonga-doc.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-doc-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-doc-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-doc&lt;br /&gt;
@@ -61,7 +86,7 @@ package or when debugging this package.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;643 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -71,7 +96,7 @@ package or when debugging this package.
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-shared-compat.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-shared-compat.html</link><pubDate>Fri, 29 Jun 2012 15:02:34 +0000</pubDate><title>Update: MySQL-shared-compat-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html</link><pubDate>Fri, 29 Jun 2012 15:02:34 +0000</pubDate><title>Update: MySQL-shared-compat-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared-compat&lt;br /&gt;
@@ -91,14 +116,14 @@ library, so it can be installed together with and independent of "MySQL-shared".
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-shared-compat-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.25a-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.25a-1.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
             	&lt;em&gt;(no changelog entry)&lt;/em&gt;
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-client.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-client.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-client-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-client-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-client&lt;br /&gt;
@@ -112,7 +137,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-client-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.25a-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.25a-1.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;14.4 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -121,7 +146,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
   it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-client-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-client-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-client-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;406 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -129,7 +154,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-client-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-client-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-client-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;359 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -138,7 +163,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-devel.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-devel.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-devel-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-devel-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-devel&lt;br /&gt;
@@ -153,7 +178,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-devel-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.25a-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.25a-1.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -162,7 +187,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
   it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;7.9 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -170,7 +195,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-devel-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-devel-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-devel-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;7.6 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -179,7 +204,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-embedded.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-embedded.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-embedded-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-embedded-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-embedded&lt;br /&gt;
@@ -198,7 +223,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-embedded-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.25a-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.25a-1.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;48.9 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -208,7 +233,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-server.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-server.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-server-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-server-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-server&lt;br /&gt;
@@ -238,7 +263,7 @@ package "MySQL-client" as well!
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-server-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.25a-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.25a-1.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;40.0 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -247,7 +272,7 @@ package "MySQL-client" as well!
   it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-server-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-server-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-server-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;17.1 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -255,7 +280,7 @@ package "MySQL-client" as well!
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-server-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-server-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-server-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;15.9 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -264,7 +289,7 @@ package "MySQL-client" as well!
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-shared.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-shared.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-shared-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-shared-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared&lt;br /&gt;
@@ -278,7 +303,7 @@ and applications need to dynamically load and use MySQL.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-shared-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.25a-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.25a-1.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -288,7 +313,7 @@ and applications need to dynamically load and use MySQL.
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-test.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/MySQL-test.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-test-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-test-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-test&lt;br /&gt;
@@ -302,7 +327,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/MySQL-test-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.25a-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.25a-1.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;31.3 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -312,7 +337,7 @@ For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/senna.html+0:1.1.4-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/senna.html</link><pubDate>Thu, 26 Nov 2009 09:00:27 +0000</pubDate><title>Update: senna-1.1.4-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/senna.html+0:1.1.4-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/senna.html</link><pubDate>Thu, 26 Nov 2009 09:00:27 +0000</pubDate><title>Update: senna-1.1.4-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; senna&lt;br /&gt;
@@ -327,7 +352,7 @@ and databases.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/senna-1.1.4-tritonn.1.0.12a.x86_64.rpm"&gt;senna-1.1.4-tritonn.1.0.12a.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//senna-1.1.4-tritonn.1.0.12a.x86_64.rpm"&gt;senna-1.1.4-tritonn.1.0.12a.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;1.9 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -336,7 +361,7 @@ and databases.
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mecab-ipadic.html+0:2.7.0.20070801-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mecab-ipadic.html</link><pubDate>Thu, 26 Nov 2009 08:55:29 +0000</pubDate><title>Update: mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mecab-ipadic.html+0:2.7.0.20070801-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mecab-ipadic.html</link><pubDate>Thu, 26 Nov 2009 08:55:29 +0000</pubDate><title>Update: mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mecab-ipadic&lt;br /&gt;
@@ -350,7 +375,7 @@ based on IPA corpus. This dictionary is for UTF-8 use.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a.x86_64.rpm"&gt;mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a.x86_64.rpm"&gt;mecab-ipadic-2.7.0.20070801-tritonn.1.0.12a.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;24.3 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -358,7 +383,7 @@ based on IPA corpus. This dictionary is for UTF-8 use.
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12a&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/mecab-ipadic-2.7.0.20070801-tritonn.1.0.12.x86_64.rpm"&gt;mecab-ipadic-2.7.0.20070801-tritonn.1.0.12.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mecab-ipadic-2.7.0.20070801-tritonn.1.0.12.x86_64.rpm"&gt;mecab-ipadic-2.7.0.20070801-tritonn.1.0.12.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;24.3 MiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -367,7 +392,7 @@ based on IPA corpus. This dictionary is for UTF-8 use.
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mecab.html+0:0.98-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/packae/centos/6/x86_64/repoview/repoview/mecab.html</link><pubDate>Thu, 26 Nov 2009 08:48:52 +0000</pubDate><title>Update: mecab-0.98-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mecab.html+0:0.98-tritonn.1.0.12a.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mecab.html</link><pubDate>Thu, 26 Nov 2009 08:48:52 +0000</pubDate><title>Update: mecab-0.98-tritonn.1.0.12a</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mecab&lt;br /&gt;
@@ -384,7 +409,7 @@ of MeCab.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/mecab-0.98-tritonn.1.0.12a.x86_64.rpm"&gt;mecab-0.98-tritonn.1.0.12a.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mecab-0.98-tritonn.1.0.12a.x86_64.rpm"&gt;mecab-0.98-tritonn.1.0.12a.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;912 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -392,7 +417,7 @@ of MeCab.
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- mecab 0.98 for Tritonn 1.0.12a&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/packae/centos/6/x86_64/repoview/mecab-0.97-tritonn.1.0.12.x86_64.rpm"&gt;mecab-0.97-tritonn.1.0.12.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mecab-0.97-tritonn.1.0.12.x86_64.rpm"&gt;mecab-0.97-tritonn.1.0.12.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;832 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
