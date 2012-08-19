@@ -3,7 +3,7 @@ Yum Repository
 
 Install
 ------
-    curl -o /etc/yum.repos.d/ykenstudio.repo https://raw.github.com/y-ken/rpm/master/ykenstudio.repo
+    curl -o /etc/yum.repos.d/ykenstudio.repo http://y-ken.github.com/package/ykenstudio.repo
 
 Usage
 ------
