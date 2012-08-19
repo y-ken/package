@@ -1,0 +1,5 @@
+[ykenstudio]
+name=Y-ken Studio $releasever - $basearch
+baseurl=http://y-ken.github.com/package/centos/$releasever/os/$basearch/
+enabled=1
+gpgcheck=0
