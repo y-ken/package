@@ -1,7 +1,5 @@
-rpm
+Yum Repository
 ===
-
-yum repository
 
 Install
 ------
@@ -25,7 +23,7 @@ Custom build version of mysql-mroonga for MySQL-5.5 with CentOS-6.x
 
     $ sudo rpm -ivh http://packages.groonga.org/centos/groonga-release-1.1.0-0.noarch.rpm
     $ sudo yum install -y groonga-tokenizer-mecab groonga-libs
-    $ sudo yum install -y MySQL-shared MySQL-client MySQL-server MySQL-devel --disablerepo=* --enablerepo=ykenstudio
+    $ sudo yum install -y MySQL-shared MySQL-shared-compat MySQL-client MySQL-server MySQL-devel --disablerepo=* --enablerepo=ykenstudio
     $ sudo service mysqld start
     $ sudo yum install -y mysql-mroonga --disablerepo=* --enablerepo=ykenstudio
 
