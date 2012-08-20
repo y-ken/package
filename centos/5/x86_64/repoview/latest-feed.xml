@@ -1,4 +1,4 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Mon, 20 Aug 2012 01:46:15 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html+0:0.6-1.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html</link><pubDate>Sun, 19 Aug 2012 14:38:02 +0000</pubDate><title>Update: mod_rpaf-0.6-1</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Mon, 20 Aug 2012 20:29:04 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html+0:0.6-2.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html</link><pubDate>Mon, 20 Aug 2012 11:21:16 +0000</pubDate><title>Update: mod_rpaf-0.6-2</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf&lt;br /&gt;
@@ -14,7 +14,7 @@ with mod_proxy that is distributed with Apache2 from version 2.0.38.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mod_rpaf-0.6-1.x86_64.rpm"&gt;mod_rpaf-0.6-1.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mod_rpaf-0.6-2.x86_64.rpm"&gt;mod_rpaf-0.6-2.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
