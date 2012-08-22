@@ -1,4 +1,4 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Mon, 20 Aug 2012 01:46:18 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf.html+0:0.6-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf.html</link><pubDate>Sun, 19 Aug 2012 16:36:54 +0000</pubDate><title>Update: mod_rpaf-0.6-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Thu, 23 Aug 2012 01:59:20 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf.html+0:0.6-3.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf.html</link><pubDate>Wed, 22 Aug 2012 16:22:57 +0000</pubDate><title>Update: mod_rpaf-0.6-3.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf&lt;br /&gt;
@@ -14,7 +14,7 @@ with mod_proxy that is distributed with Apache2 from version 2.0.38.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-0.6-2.el6.x86_64.rpm"&gt;mod_rpaf-0.6-2.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-0.6-3.el6.x86_64.rpm"&gt;mod_rpaf-0.6-3.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;6 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -22,7 +22,7 @@ with mod_proxy that is distributed with Apache2 from version 2.0.38.
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-0.6-1.el6.x86_64.rpm"&gt;mod_rpaf-0.6-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-0.6-2.el6.x86_64.rpm"&gt;mod_rpaf-0.6-2.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;6 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -31,7 +31,7 @@ with mod_proxy that is distributed with Apache2 from version 2.0.38.
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-debuginfo.html+0:0.6-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-debuginfo.html</link><pubDate>Sun, 19 Aug 2012 16:36:54 +0000</pubDate><title>Update: mod_rpaf-debuginfo-0.6-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-debuginfo.html+0:0.6-3.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-debuginfo.html</link><pubDate>Wed, 22 Aug 2012 16:22:57 +0000</pubDate><title>Update: mod_rpaf-debuginfo-0.6-3.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-debuginfo&lt;br /&gt;
@@ -46,7 +46,7 @@ package or when debugging this package.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-debuginfo-0.6-2.el6.x86_64.rpm"&gt;mod_rpaf-debuginfo-0.6-2.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-debuginfo-0.6-3.el6.x86_64.rpm"&gt;mod_rpaf-debuginfo-0.6-3.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
@@ -54,7 +54,7 @@ package or when debugging this package.
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-debuginfo-0.6-1.el6.x86_64.rpm"&gt;mod_rpaf-debuginfo-0.6-1.el6.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-debuginfo-0.6-2.el6.x86_64.rpm"&gt;mod_rpaf-debuginfo-0.6-2.el6.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
