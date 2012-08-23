@@ -1,8 +1,8 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Thu, 23 Aug 2012 01:59:16 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html+0:0.6-3.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf.html</link><pubDate>Wed, 22 Aug 2012 16:55:39 +0000</pubDate><title>Update: mod_rpaf-0.6-3</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Fri, 24 Aug 2012 00:09:02 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf-fork.html+0:0.6-4.x86_64</guid><link>http://y-ken.github.com/package/centos/5/x86_64/repoview//repoview/mod_rpaf-fork.html</link><pubDate>Thu, 23 Aug 2012 15:02:33 +0000</pubDate><title>Update: mod_rpaf-fork-0.6-4</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; mod_rpaf
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-fork&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Reverse Proxy Add Forward module for Apache
 	&lt;/p&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
@@ -14,15 +14,7 @@ with mod_proxy that is distributed with Apache2 from version 2.0.38.
 	&lt;h3&gt;Changes:&lt;/h3&gt;
 	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
         &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mod_rpaf-0.6-3.x86_64.rpm"&gt;mod_rpaf-0.6-3.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mod_rpaf-0.6-2.x86_64.rpm"&gt;mod_rpaf-0.6-2.x86_64&lt;/a&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/5/x86_64/repoview//mod_rpaf-fork-0.6-4.x86_64.rpm"&gt;mod_rpaf-fork-0.6-4.x86_64&lt;/a&gt;
               [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
             &lt;td valign="top"&gt;
               &lt;strong&gt;Changelog&lt;/strong&gt;
