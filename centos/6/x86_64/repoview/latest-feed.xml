@@ -1,4 +1,26 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Fri, 24 Aug 2012 00:09:05 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html+0:0.6-4.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html</link><pubDate>Thu, 23 Aug 2012 14:43:10 +0000</pubDate><title>Update: mod_rpaf-fork-0.6-4.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Fri, 24 Aug 2012 00:49:06 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html+0:1.0.0-1.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html</link><pubDate>Thu, 23 Aug 2012 15:47:43 +0000</pubDate><title>Update: mod_dosdetector-fork-1.0.0-1</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_dosdetector-fork&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; DoS attack detector for the Apache web server
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		mod_dosdetector is a DoS detector module for Apache HTTP Server.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_dosdetector-fork-1.0.0-1.x86_64.rpm"&gt;mod_dosdetector-fork-1.0.0-1.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Takayuki Miwa (2009-08-17)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Initial package.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html+0:0.6-4.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html</link><pubDate>Thu, 23 Aug 2012 14:43:10 +0000</pubDate><title>Update: mod_rpaf-fork-0.6-4.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-fork&lt;br /&gt;
