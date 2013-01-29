@@ -1,4 +1,420 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Fri, 24 Aug 2012 00:49:06 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html+0:1.0.0-1.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html</link><pubDate>Thu, 23 Aug 2012 15:47:43 +0000</pubDate><title>Update: mod_dosdetector-fork-1.0.0-1</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Tue, 29 Jan 2013 11:35:44 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:2.10-1.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Tue, 29 Jan 2013 02:12:31 +0000</pubDate><title>Update: mysql-mroonga-2.10-1.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; A fast fulltext searchable storage engine for MySQL.
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		Mroonga is a fast fulltext searchable storage plugin for MySQL.
+It is based on groonga that is a fast fulltext search engine and
+column store. Groonga is good at real-time update.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;159 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;148 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
+- use MySQL 5.5.25a.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html+0:2.10-1.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html</link><pubDate>Tue, 29 Jan 2013 02:12:31 +0000</pubDate><title>Update: mysql-mroonga-debuginfo-2.10-1.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-debuginfo&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Debug information for package mysql-mroonga
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package provides debug information for package mysql-mroonga.
+Debug information is useful when developing applications that use this
+package or when debugging this package.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;683 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;664 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
+- use MySQL 5.5.25a.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html+0:2.10-1.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html</link><pubDate>Tue, 29 Jan 2013 02:12:31 +0000</pubDate><title>Update: mysql-mroonga-doc-2.10-1.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-doc&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Documentation for mroonga
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		Documentation for mroonga
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;660 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;643 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
+- use MySQL 5.5.25a.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html+0:5.5.28-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html</link><pubDate>Wed, 29 Aug 2012 23:08:23 +0000</pubDate><title>Update: MySQL-shared-compat-5.5.28-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared-compat&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL shared client libraries for MySQL 5.1.65-1, 5.0.96-1, 4.1.23-0, 4.0.27-0
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package includes the shared client libraries for previous MySQL versions.
+Install this package, if you have applications that are dynamically linked
+against older versions of the MySQL client library and you want to upgrade
+to MySQL 5.5.28 without breaking the library dependencies.
+Up to MySQL 5.5.5, this package also contains the current version of the
+shared client library, so it should be installed instead of "MySQL-shared",
+Starting from MySQL 5.5.6, this package contains only the older versions of the
+library, so it can be installed together with and independent of "MySQL-shared".
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html+0:5.5.28-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html</link><pubDate>Wed, 29 Aug 2012 10:34:59 +0000</pubDate><title>Update: MySQL-client-5.5.28-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-client&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Client
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the standard MySQL clients and administration tools.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;14.5 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;14.4 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-client-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;406 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-client-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;359 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html+0:5.5.28-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html</link><pubDate>Wed, 29 Aug 2012 10:34:59 +0000</pubDate><title>Update: MySQL-devel-5.5.28-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-devel&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Development header files and libraries
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the development header files and libraries necessary
+to develop MySQL client applications.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-devel-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7.6 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html+0:5.5.28-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html</link><pubDate>Wed, 29 Aug 2012 10:34:59 +0000</pubDate><title>Update: MySQL-embedded-5.5.28-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-embedded&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Embedded library
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the MySQL server as an embedded library.
+The embedded MySQL server library makes it possible to run a full-featured
+MySQL server inside the client application. The main benefits are increased
+speed and more simple management for embedded applications.
+The API is identical for the embedded MySQL version and the
+client/server version.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;49.0 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;48.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html+0:5.5.28-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html</link><pubDate>Wed, 29 Aug 2012 10:34:59 +0000</pubDate><title>Update: MySQL-server-5.5.28-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-server&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL: a very fast and reliable SQL database server
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		The MySQL(TM) software delivers a very fast, multi-threaded, multi-user,
+and robust SQL (Structured Query Language) database server. MySQL Server
+is intended for mission-critical, heavy-load production systems as well
+as for embedding into mass-deployed software. MySQL is a trademark of
+Oracle and/or its affiliates
+The MySQL software has Dual Licensing, which means you can use the MySQL
+software free of charge under the GNU General Public License
+(http://www.gnu.org/licenses/). You can also purchase commercial MySQL
+licenses from Oracle and/or its affiliates if you do not wish to be bound by the terms of
+the GPL. See the chapter "Licensing and Support" in the manual for
+further info.
+The MySQL web site (http://www.mysql.com/) provides the latest news and
+information about the MySQL software.  Also please see the documentation
+and the manual for more information.
+This package includes the MySQL server binary as well as related utilities
+to run and administer a MySQL server.
+If you want to access and work with the database, you have to install
+package "MySQL-client" as well!
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;40.1 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;40.0 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-server-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17.1 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-server-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;15.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html+0:5.5.28-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html</link><pubDate>Wed, 29 Aug 2012 10:34:59 +0000</pubDate><title>Update: MySQL-shared-5.5.28-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Shared libraries
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the shared libraries (*.so*) which certain languages
+and applications need to dynamically load and use MySQL.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html+0:5.5.28-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html</link><pubDate>Wed, 29 Aug 2012 10:34:59 +0000</pubDate><title>Update: MySQL-test-5.5.28-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-test&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Test suite
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the MySQL regression test suite.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;31.4 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;31.3 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html+0:1.0.0-1.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html</link><pubDate>Thu, 23 Aug 2012 15:47:43 +0000</pubDate><title>Update: mod_dosdetector-fork-1.0.0-1</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mod_dosdetector-fork&lt;br /&gt;
@@ -66,320 +482,6 @@ package or when debugging this package.
               &lt;strong&gt;Changelog&lt;/strong&gt;
               by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; A fast fulltext searchable storage engine for MySQL.
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		Mroonga is a fast fulltext searchable storage plugin for MySQL.
-It is based on groonga that is a fast fulltext search engine and
-column store. Groonga is good at real-time update.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;148 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
-- use MySQL 5.5.25a.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-debuginfo-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-debuginfo&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; Debug information for package mysql-mroonga
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package provides debug information for package mysql-mroonga.
-Debug information is useful when developing applications that use this
-package or when debugging this package.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;664 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
-- use MySQL 5.5.25a.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html+0:2.05-0.el6.mysql55.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html</link><pubDate>Sat, 11 Aug 2012 15:52:53 +0000</pubDate><title>Update: mysql-mroonga-doc-2.05-0.el6.mysql55</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-doc&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; Documentation for mroonga
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		Documentation for mroonga
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;643 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
-- use MySQL 5.5.25a.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html</link><pubDate>Fri, 29 Jun 2012 15:02:34 +0000</pubDate><title>Update: MySQL-shared-compat-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared-compat&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL shared client libraries for MySQL 5.1.64-1, 5.0.96-1, 4.1.23-0, 4.0.27-0
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package includes the shared client libraries for previous MySQL versions.
-Install this package, if you have applications that are dynamically linked
-against older versions of the MySQL client library and you want to upgrade
-to MySQL 5.5.25a without breaking the library dependencies.
-Up to MySQL 5.5.5, this package also contains the current version of the
-shared client library, so it should be installed instead of "MySQL-shared",
-Starting from MySQL 5.5.6, this package contains only the older versions of the
-library, so it can be installed together with and independent of "MySQL-shared".
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-client-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-client&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Client
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the standard MySQL clients and administration tools.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;14.4 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-client-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;406 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-client-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;359 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-devel-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-devel&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Development header files and libraries
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the development header files and libraries necessary
-to develop MySQL client applications.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;7.9 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-devel-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;7.6 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-embedded-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-embedded&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Embedded library
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the MySQL server as an embedded library.
-The embedded MySQL server library makes it possible to run a full-featured
-MySQL server inside the client application. The main benefits are increased
-speed and more simple management for embedded applications.
-The API is identical for the embedded MySQL version and the
-client/server version.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;48.9 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-server-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-server&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL: a very fast and reliable SQL database server
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		The MySQL(TM) software delivers a very fast, multi-threaded, multi-user,
-and robust SQL (Structured Query Language) database server. MySQL Server
-is intended for mission-critical, heavy-load production systems as well
-as for embedding into mass-deployed software. MySQL is a trademark of
-Oracle and/or its affiliates
-The MySQL software has Dual Licensing, which means you can use the MySQL
-software free of charge under the GNU General Public License
-(http://www.gnu.org/licenses/). You can also purchase commercial MySQL
-licenses from Oracle and/or its affiliates if you do not wish to be bound by the terms of
-the GPL. See the chapter "Licensing and Support" in the manual for
-further info.
-The MySQL web site (http://www.mysql.com/) provides the latest news and
-information about the MySQL software.  Also please see the documentation
-and the manual for more information.
-This package includes the MySQL server binary as well as related utilities
-to run and administer a MySQL server.
-If you want to access and work with the database, you have to install
-package "MySQL-client" as well!
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;40.0 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-server-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;17.1 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-server-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;15.9 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-shared-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Shared libraries
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the shared libraries (*.so*) which certain languages
-and applications need to dynamically load and use MySQL.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html+0:5.5.25a-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html</link><pubDate>Fri, 29 Jun 2012 13:39:32 +0000</pubDate><title>Update: MySQL-test-5.5.25a-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-test&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Test suite
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the MySQL regression test suite.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;31.3 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
