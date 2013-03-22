@@ -1,4 +1,69 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Fri, 15 Mar 2013 17:31:58 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:3.01-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Fri, 15 Mar 2013 08:26:59 +0000</pubDate><title>Update: mysql-mroonga-3.01-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Sat, 23 Mar 2013 00:12:15 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html+0:0.6-5.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html</link><pubDate>Fri, 22 Mar 2013 15:04:55 +0000</pubDate><title>Update: mod_rpaf-fork-0.6-5.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-fork&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Reverse Proxy Add Forward module for Apache
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		rpaf is for backend Apache servers what mod_proxy_add_forward is for
+frontend Apache servers. It does excactly the opposite of
+mod_proxy_add_forward written by Ask Bjørn Hansen. It will also work
+with mod_proxy that is distributed with Apache2 from version 2.0.38.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-fork-0.6-5.el6.x86_64.rpm"&gt;mod_rpaf-fork-0.6-5.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;6 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-fork-0.6-4.el6.x86_64.rpm"&gt;mod_rpaf-fork-0.6-4.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;6 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork-debuginfo.html+0:0.6-5.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork-debuginfo.html</link><pubDate>Fri, 22 Mar 2013 15:04:55 +0000</pubDate><title>Update: mod_rpaf-fork-debuginfo-0.6-5.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-fork-debuginfo&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Debug information for package mod_rpaf-fork
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package provides debug information for package mod_rpaf-fork.
+Debug information is useful when developing applications that use this
+package or when debugging this package.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-fork-debuginfo-0.6-5.el6.x86_64.rpm"&gt;mod_rpaf-fork-debuginfo-0.6-5.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;16 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-fork-debuginfo-0.6-4.el6.x86_64.rpm"&gt;mod_rpaf-fork-debuginfo-0.6-4.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:3.01-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Fri, 15 Mar 2013 08:26:59 +0000</pubDate><title>Update: mysql-mroonga-3.01-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga&lt;br /&gt;
@@ -535,55 +600,6 @@ library, so it can be installed together with and independent of "MySQL-shared".
               &lt;strong&gt;Changelog&lt;/strong&gt;
               by &lt;span&gt;Takayuki Miwa (2009-08-17)&lt;/span&gt;:
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Initial package.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html+0:0.6-4.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html</link><pubDate>Thu, 23 Aug 2012 14:43:10 +0000</pubDate><title>Update: mod_rpaf-fork-0.6-4.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-fork&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; Reverse Proxy Add Forward module for Apache
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		rpaf is for backend Apache servers what mod_proxy_add_forward is for
-frontend Apache servers. It does excactly the opposite of
-mod_proxy_add_forward written by Ask Bjørn Hansen. It will also work
-with mod_proxy that is distributed with Apache2 from version 2.0.38.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-fork-0.6-4.el6.x86_64.rpm"&gt;mod_rpaf-fork-0.6-4.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;6 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork-debuginfo.html+0:0.6-4.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork-debuginfo.html</link><pubDate>Thu, 23 Aug 2012 14:43:10 +0000</pubDate><title>Update: mod_rpaf-fork-debuginfo-0.6-4.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-fork-debuginfo&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; Debug information for package mod_rpaf-fork
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package provides debug information for package mod_rpaf-fork.
-Debug information is useful when developing applications that use this
-package or when debugging this package.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_rpaf-fork-debuginfo-0.6-4.el6.x86_64.rpm"&gt;mod_rpaf-fork-debuginfo-0.6-4.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;17 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
