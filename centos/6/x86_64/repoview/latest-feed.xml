@@ -1,4 +1,173 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Sat, 23 Mar 2013 00:12:15 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html+0:0.6-5.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html</link><pubDate>Fri, 22 Mar 2013 15:04:55 +0000</pubDate><title>Update: mod_rpaf-fork-0.6-5.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Wed, 10 Apr 2013 15:00:57 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:3.02-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Wed, 10 Apr 2013 05:52:56 +0000</pubDate><title>Update: mysql-mroonga-3.02-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; A fast fulltext searchable storage engine for MySQL.
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		Mroonga is a fast fulltext searchable storage plugin for MySQL.
+It is based on groonga that is a fast fulltext search engine and
+column store. Groonga is good at real-time update.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-3.02-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-3.02-0.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;143 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2013-03-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-3.01-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-3.01-0.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;171 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2013-02-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.10-1.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-2.10-1.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;164 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;159 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;148 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
+- use MySQL 5.5.25a.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html+0:3.02-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html</link><pubDate>Wed, 10 Apr 2013 05:52:56 +0000</pubDate><title>Update: mysql-mroonga-debuginfo-3.02-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-debuginfo&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Debug information for package mysql-mroonga
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package provides debug information for package mysql-mroonga.
+Debug information is useful when developing applications that use this
+package or when debugging this package.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-3.02-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-debuginfo-3.02-0.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;927 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2013-03-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-3.01-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-debuginfo-3.01-0.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;925 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2013-02-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.10-1.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.10-1.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;906 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;683 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;664 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
+- use MySQL 5.5.25a.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html+0:3.02-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html</link><pubDate>Wed, 10 Apr 2013 05:52:56 +0000</pubDate><title>Update: mysql-mroonga-doc-3.02-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-doc&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Documentation for mroonga
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		Documentation for mroonga
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-3.02-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-doc-3.02-0.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;673 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2013-03-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-3.01-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-doc-3.01-0.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;665 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2013-02-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.10-1.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-doc-2.10-1.el6.mysql56.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;660 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;660 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;643 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
+- use MySQL 5.5.25a.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html+0:0.6-5.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_rpaf-fork.html</link><pubDate>Fri, 22 Mar 2013 15:04:55 +0000</pubDate><title>Update: mod_rpaf-fork-0.6-5.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mod_rpaf-fork&lt;br /&gt;
@@ -60,151 +229,6 @@ package or when debugging this package.
               &lt;strong&gt;Changelog&lt;/strong&gt;
               by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:3.01-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Fri, 15 Mar 2013 08:26:59 +0000</pubDate><title>Update: mysql-mroonga-3.01-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; A fast fulltext searchable storage engine for MySQL.
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		Mroonga is a fast fulltext searchable storage plugin for MySQL.
-It is based on groonga that is a fast fulltext search engine and
-column store. Groonga is good at real-time update.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-3.01-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-3.01-0.el6.mysql56.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;171 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2013-02-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.10-1.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-2.10-1.el6.mysql56.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;164 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;159 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;148 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
-- use MySQL 5.5.25a.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html+0:3.01-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-debuginfo.html</link><pubDate>Fri, 15 Mar 2013 08:26:59 +0000</pubDate><title>Update: mysql-mroonga-debuginfo-3.01-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-debuginfo&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; Debug information for package mysql-mroonga
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package provides debug information for package mysql-mroonga.
-Debug information is useful when developing applications that use this
-package or when debugging this package.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-3.01-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-debuginfo-3.01-0.el6.mysql56.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;925 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2013-02-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.10-1.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.10-1.el6.mysql56.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;906 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;683 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-debuginfo-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;664 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
-- use MySQL 5.5.25a.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html+0:3.01-0.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga-doc.html</link><pubDate>Fri, 15 Mar 2013 08:26:59 +0000</pubDate><title>Update: mysql-mroonga-doc-3.01-0.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga-doc&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; Documentation for mroonga
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		Documentation for mroonga
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-3.01-0.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-doc-3.01-0.el6.mysql56.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;665 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2013-02-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.10-1.el6.mysql56.x86_64.rpm"&gt;mysql-mroonga-doc-2.10-1.el6.mysql56.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;660 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.10-1.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.10-1.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;660 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-12-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64.rpm"&gt;mysql-mroonga-doc-2.05-0.el6.mysql55.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;643 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;HAYASHI Kentaro (2012-07-29)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
-- use MySQL 5.5.25a.&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
