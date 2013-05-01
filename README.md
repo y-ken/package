@@ -65,6 +65,12 @@ http://sourceforge.jp/projects/tritonn/releases/
 * MySQL-5.6  
 http://ftp.jaist.ac.jp/pub/mysql/Downloads/MySQL-5.6/
 
+## Blog Articles
+* CentOS-6.3に mysql-5.5.20 と mroonga-2.04 を入れる方法  
+http://d.hatena.ne.jp/yoshi-ken/20120203
+* CentOS6にMySQL-5.6.10/5.6.11をオラクル公式rpmを用いてインストールする方法  
+http://y-ken.hatenablog.com/entry/how-to-install-official-mysql5.6.x-on-centos6
+
 ## Release Note
 
 * 2013/05/01 updated
