@@ -73,6 +73,9 @@ http://y-ken.hatenablog.com/entry/how-to-install-official-mysql5.6.x-on-centos6
 
 ## Release Note
 
+* 2013/05/07 updated
+  * mroonga-3.03-1 for MySQL-5.6.11  
+  gets compatible to use groonga-normalizer-mysql from this version.
 * 2013/05/01 updated
   * mroonga-3.03 for MySQL-5.6.11
   * MySQL-5.6.11
