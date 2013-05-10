@@ -15,10 +15,9 @@ Also, you can install with URL without adding repository.
 $ sudo yum localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-shared-compat-5.6.11-2.el6.x86_64.rpm
 ```
 
-## Last Update
+## What is New?
 
-* 2013/05/01  
-mroonga-3.03 for MySQL-5.6.11 and MySQL-5.6.11 has added.
+add MySQL-5.6.11 Release 2
 
 ## Quick Guide
 How to install these products with this repository.
@@ -66,13 +65,21 @@ http://sourceforge.jp/projects/tritonn/releases/
 http://ftp.jaist.ac.jp/pub/mysql/Downloads/MySQL-5.6/
 
 ## Blog Articles
+
 * CentOS-6.3に mysql-5.5.20 と mroonga-2.04 を入れる方法  
 http://d.hatena.ne.jp/yoshi-ken/20120203
+
 * CentOS6にMySQL-5.6.10/5.6.11をオラクル公式rpmを用いてインストールする方法  
 http://y-ken.hatenablog.com/entry/how-to-install-official-mysql5.6.x-on-centos6
 
+* CentOS-6.x に MySQL-5.6.x と mroonga の最新版を数分で入れる方法  
+http://y-ken.hatenablog.com/entry/how-to-install-mysql5.6.x-with-mroonga-for-centos6
+
 ## Release Note
 
+* 2013/05/09 updated
+  * MySQL-5.6.11-1 (Release 2)  
+  http://bugs.mysql.com/bug.php?id=69027
 * 2013/05/07 updated
   * mroonga-3.03-1 for MySQL-5.6.11  
   gets compatible to use groonga-normalizer-mysql from this version.
