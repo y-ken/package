@@ -1,4 +1,58 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Fri, 10 May 2013 01:37:07 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:3.03-1.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Tue, 07 May 2013 07:49:40 +0000</pubDate><title>Update: mysql-mroonga-3.03-1.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Mon, 20 May 2013 12:41:35 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html+0:1.0.0-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html</link><pubDate>Mon, 20 May 2013 03:37:42 +0000</pubDate><title>Update: mod_dosdetector-fork-1.0.0-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_dosdetector-fork&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; DoS attack detector for the Apache web server
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		mod_dosdetector is a DoS detector module for Apache HTTP Server.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_dosdetector-fork-1.0.0-1.el6.x86_64.rpm"&gt;mod_dosdetector-fork-1.0.0-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Takayuki Miwa (2009-08-17)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Initial package.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_dosdetector-fork-1.0.0-1.x86_64.rpm"&gt;mod_dosdetector-fork-1.0.0-1.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Takayuki Miwa (2009-08-17)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Initial package.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork-debuginfo.html+0:1.0.0-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork-debuginfo.html</link><pubDate>Mon, 20 May 2013 03:37:42 +0000</pubDate><title>Update: mod_dosdetector-fork-debuginfo-1.0.0-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; mod_dosdetector-fork-debuginfo&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; Debug information for package mod_dosdetector-fork
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package provides debug information for package mod_dosdetector-fork.
+Debug information is useful when developing applications that use this
+package or when debugging this package.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_dosdetector-fork-debuginfo-1.0.0-1.el6.x86_64.rpm"&gt;mod_dosdetector-fork-debuginfo-1.0.0-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;20 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Takayuki Miwa (2009-08-17)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Initial package.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html+0:3.03-1.el6.mysql56.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql-mroonga.html</link><pubDate>Tue, 07 May 2013 07:49:40 +0000</pubDate><title>Update: mysql-mroonga-3.03-1.el6.mysql56</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mysql-mroonga&lt;br /&gt;
@@ -776,28 +830,6 @@ package or when debugging this package.
               &lt;strong&gt;Changelog&lt;/strong&gt;
               by &lt;span&gt;Kentaro Yoshida (2012-08-19)&lt;/span&gt;:
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Improbe forward compatibility&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html+0:1.0.0-1.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mod_dosdetector-fork.html</link><pubDate>Thu, 23 Aug 2012 15:47:43 +0000</pubDate><title>Update: mod_dosdetector-fork-1.0.0-1</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; mod_dosdetector-fork&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; DoS attack detector for the Apache web server
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		mod_dosdetector is a DoS detector module for Apache HTTP Server.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//mod_dosdetector-fork-1.0.0-1.x86_64.rpm"&gt;mod_dosdetector-fork-1.0.0-1.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;7 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Takayuki Miwa (2009-08-17)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Initial package.&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
