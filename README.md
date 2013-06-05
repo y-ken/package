@@ -77,12 +77,14 @@ http://y-ken.hatenablog.com/entry/how-to-install-mysql5.6.x-with-mroonga-for-cen
 
 ## Release Note
 
+* 2013/06/05 updated
+  * MySQL-5.6.12-1
 * 2013/05/29 updated  
   * mroonga-3.04 for MySQL-5.6.11
 * 2013/05/20 updated  
   * mod_dosdetector-fork-1.0.0 for CentOS 6
 * 2013/05/09 updated
-  * MySQL-5.6.11-1 (Release 2)  
+  * MySQL-5.6.11-2 (Release 2)  
   http://bugs.mysql.com/bug.php?id=69027
 * 2013/05/07 updated
   * mroonga-3.03-1 for MySQL-5.6.11  
