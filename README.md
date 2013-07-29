@@ -17,7 +17,7 @@ $ sudo yum localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-sha
 
 ## What is New?
 
-add MySQL-5.6.12 Release 1
+add mysql56-mroonga-3.06
 
 ## Quick Guide
 How to install these products with this repository.
@@ -77,6 +77,8 @@ http://y-ken.hatenablog.com/entry/how-to-install-mysql5.6.x-with-mroonga-for-cen
 
 ## Release Note
 
+* 2013/07/29 updated
+  * mysql56-mroonga-3.06 for MySQL-5.6.12
 * 2013/06/29 updated
   * mysql56-mroonga-3.05 for MySQL-5.6.12
 * 2013/06/05 updated
