@@ -12,12 +12,12 @@ $ sudo yum install foo --enablerepo=ykenstudio
 ```
 Also, you can install with URL without adding repository.
 ```
-$ sudo yum localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-shared-compat-5.6.12-1.el6.x86_64.rpm
+$ sudo yum localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-shared-compat-5.6.12-2.el6.x86_64.rpm
 ```
 
 ## What is New?
 
-add mysql56-mroonga-3.06
+add mysql56-mroonga-3.06 for MySQL 5.6.12-2
 
 ## Quick Guide
 How to install these products with this repository.
@@ -49,11 +49,11 @@ $ sudo yum install -y MySQL-shared MySQL-client MySQL-server MySQL-devel --disab
 Also, you can install MySQL without adding repository. 
 
 ```
-$ sudo yum -y localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-shared-compat-5.6.12-1.el6.x86_64.rpm
-$ sudo yum -y localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-shared-5.6.12-1.el6.x86_64.rpm \
-  http://y-ken.github.io/package/centos/6/x86_64/MySQL-server-5.6.12-1.el6.x86_64.rpm \
-  http://y-ken.github.io/package/centos/6/x86_64/MySQL-devel-5.6.12-1.el6.x86_64.rpm \
-  http://y-ken.github.io/package/centos/6/x86_64/MySQL-client-5.6.12-1.el6.x86_64.rpm
+$ sudo yum -y localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-shared-compat-5.6.12-2.el6.x86_64.rpm
+$ sudo yum -y localinstall http://y-ken.github.io/package/centos/6/x86_64/MySQL-shared-5.6.12-2.el6.x86_64.rpm \
+  http://y-ken.github.io/package/centos/6/x86_64/MySQL-server-5.6.12-2.el6.x86_64.rpm \
+  http://y-ken.github.io/package/centos/6/x86_64/MySQL-devel-5.6.12-2.el6.x86_64.rpm \
+  http://y-ken.github.io/package/centos/6/x86_64/MySQL-client-5.6.12-2.el6.x86_64.rpm
 ```
 
 ## Mirroring Info
@@ -78,6 +78,7 @@ http://y-ken.hatenablog.com/entry/how-to-install-mysql5.6.x-with-mroonga-for-cen
 ## Release Note
 
 * 2013/07/29 updated
+  * MySQL-5.6.12-2
   * mysql56-mroonga-3.06 for MySQL-5.6.12
 * 2013/06/29 updated
   * mysql56-mroonga-3.05 for MySQL-5.6.12
