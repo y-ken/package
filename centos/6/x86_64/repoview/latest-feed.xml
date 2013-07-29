@@ -1,4 +1,4 @@
-<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Mon, 29 Jul 2013 17:07:16 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql56-mroonga.html+0:3.06-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql56-mroonga.html</link><pubDate>Mon, 29 Jul 2013 08:02:06 +0000</pubDate><title>Update: mysql56-mroonga-3.06-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<rss version="2.0"><channel><title>Repoview</title><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/latest-feed.xml</link><description>Latest packages for Repoview</description><lastBuildDate>Mon, 29 Jul 2013 17:11:25 +0900</lastBuildDate><generator>Repoview-0.6.6-1.el6</generator><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql56-mroonga.html+0:3.06-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/mysql56-mroonga.html</link><pubDate>Mon, 29 Jul 2013 08:02:06 +0000</pubDate><title>Update: mysql56-mroonga-3.06-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;div&gt;
 	&lt;p&gt;
 		&lt;strong&gt;Package:&lt;/strong&gt; mysql56-mroonga&lt;br /&gt;
@@ -95,6 +95,565 @@ package or when debugging this package.
               by &lt;span&gt;HAYASHI Kentaro (2013-06-29)&lt;/span&gt;:
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.
 - use MySQL 5.6.12 on CentOS 5.&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html+0:5.6.12-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html</link><pubDate>Wed, 03 Jul 2013 07:09:47 +0000</pubDate><title>Update: MySQL-shared-compat-5.6.12-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared-compat&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL shared client libraries for MySQL 5.1.70-1, 5.0.96-1, 4.1.23-0, 4.0.27-0
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package includes the shared client libraries for previous MySQL versions.
+Install this package, if you have applications that are dynamically linked
+against older versions of the MySQL client library and you want to upgrade
+to MySQL 5.6.12 without breaking the library dependencies.
+Up to MySQL 5.5.5, this package also contains the current version of the
+shared client library, so it should be installed instead of "MySQL-shared",
+Starting from MySQL 5.5.6, this package contains only the older versions of the
+library, so it can be installed together with and independent of "MySQL-shared".
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.6.12-2.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.6.12-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.6.12-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.6.11-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.6.10-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html+0:5.6.12-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html</link><pubDate>Tue, 02 Jul 2013 20:03:52 +0000</pubDate><title>Update: MySQL-client-5.6.12-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-client&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Client
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the standard MySQL clients and administration tools.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.6.12-2.el6.x86_64.rpm"&gt;MySQL-client-5.6.12-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-client-5.6.12-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-client-5.6.11-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17.6 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-client-5.6.10-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17.6 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;14.5 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;14.4 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-client-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;406 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-client-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;359 KiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html+0:5.6.12-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html</link><pubDate>Tue, 02 Jul 2013 20:03:52 +0000</pubDate><title>Update: MySQL-devel-5.6.12-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-devel&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Development header files and libraries
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the development header files and libraries necessary
+to develop MySQL client applications.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.6.12-2.el6.x86_64.rpm"&gt;MySQL-devel-5.6.12-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.2 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-devel-5.6.12-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.2 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-devel-5.6.11-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.2 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-devel-5.6.10-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;3.2 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-devel-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;7.6 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html+0:5.6.12-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html</link><pubDate>Tue, 02 Jul 2013 20:03:52 +0000</pubDate><title>Update: MySQL-embedded-5.6.12-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-embedded&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Embedded library
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the MySQL server as an embedded library.
+The embedded MySQL server library makes it possible to run a full-featured
+MySQL server inside the client application. The main benefits are increased
+speed and more simple management for embedded applications.
+The API is identical for the embedded MySQL version and the
+client/server version.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.6.12-2.el6.x86_64.rpm"&gt;MySQL-embedded-5.6.12-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;80.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.6.12-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;80.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-embedded-5.6.11-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;79.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.6.10-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;79.6 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;49.0 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;48.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html+0:5.6.12-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html</link><pubDate>Tue, 02 Jul 2013 20:03:52 +0000</pubDate><title>Update: MySQL-server-5.6.12-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-server&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL: a very fast and reliable SQL database server
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		The MySQL(TM) software delivers a very fast, multi-threaded, multi-user,
+and robust SQL (Structured Query Language) database server. MySQL Server
+is intended for mission-critical, heavy-load production systems as well
+as for embedding into mass-deployed software. MySQL is a trademark of
+Oracle and/or its affiliates
+The MySQL software has Dual Licensing, which means you can use the MySQL
+software free of charge under the GNU General Public License
+(http://www.gnu.org/licenses/). You can also purchase commercial MySQL
+licenses from Oracle and/or its affiliates if you do not wish to be bound by the terms of
+the GPL. See the chapter "Licensing and Support" in the manual for
+further info.
+The MySQL web site (http://www.mysql.com/) provides the latest news and
+information about the MySQL software.  Also please see the documentation
+and the manual for more information.
+This package includes the MySQL server binary as well as related utilities
+to run and administer a MySQL server.
+If you want to access and work with the database, you have to install
+package "MySQL-client" as well!
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.6.12-2.el6.x86_64.rpm"&gt;MySQL-server-5.6.12-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;54.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-server-5.6.12-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;54.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-server-5.6.11-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;53.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-server-5.6.10-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;53.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;40.1 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;40.0 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-server-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;17.1 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-server-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;15.9 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html+0:5.6.12-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html</link><pubDate>Tue, 02 Jul 2013 20:03:52 +0000</pubDate><title>Update: MySQL-shared-5.6.12-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Shared libraries
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the shared libraries (*.so*) which certain languages
+and applications need to dynamically load and use MySQL.
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.6.12-2.el6.x86_64.rpm"&gt;MySQL-shared-5.6.12-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-shared-5.6.12-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-shared-5.6.11-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-shared-5.6.10-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html+0:5.6.12-2.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html</link><pubDate>Tue, 02 Jul 2013 20:03:52 +0000</pubDate><title>Update: MySQL-test-5.6.12-2.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;div&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-test&lt;br /&gt;
+		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Test suite
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
+		This package contains the MySQL regression test suite.
+For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
+	&lt;/p&gt;
+	&lt;h3&gt;Changes:&lt;/h3&gt;
+	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
+        &lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.6.12-2.el6.x86_64.rpm"&gt;MySQL-test-5.6.12-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;47.1 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-test-5.6.12-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;47.1 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-test-5.6.11-2.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;46.8 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-test-5.6.10-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;46.6 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
+      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.28-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;31.4 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
+  if set to 1 (default), the test suite will be run during the RPM build;
+  this can be oveeridden via the command line by adding
+      --define "runselftest 0"
+  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;
+            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.25a-1.el6.x86_64&lt;/a&gt;
+              [&lt;span style="white-space: nowrap"&gt;31.3 MiB&lt;/span&gt;]&lt;/td&gt;
+            &lt;td valign="top"&gt;
+              &lt;strong&gt;Changelog&lt;/strong&gt;
+              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
+              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
+  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
@@ -261,505 +820,6 @@ package or when debugging this package.
               &lt;strong&gt;Changelog&lt;/strong&gt;
               by &lt;span&gt;HAYASHI Kentaro (2013-02-28)&lt;/span&gt;:
               &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- new upstream release.&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html+0:5.6.12-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared-compat.html</link><pubDate>Tue, 21 May 2013 23:15:49 +0000</pubDate><title>Update: MySQL-shared-compat-5.6.12-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared-compat&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL shared client libraries for MySQL 5.1.70-1, 5.0.96-1, 4.1.23-0, 4.0.27-0
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package includes the shared client libraries for previous MySQL versions.
-Install this package, if you have applications that are dynamically linked
-against older versions of the MySQL client library and you want to upgrade
-to MySQL 5.6.12 without breaking the library dependencies.
-Up to MySQL 5.5.5, this package also contains the current version of the
-shared client library, so it should be installed instead of "MySQL-shared",
-Starting from MySQL 5.5.6, this package contains only the older versions of the
-library, so it can be installed together with and independent of "MySQL-shared".
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.6.12-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.6.11-2.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.6.10-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.28-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-compat-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-compat-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-            	&lt;em&gt;(no changelog entry)&lt;/em&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html+0:5.6.12-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-client.html</link><pubDate>Tue, 21 May 2013 16:30:12 +0000</pubDate><title>Update: MySQL-client-5.6.12-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-client&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Client
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the standard MySQL clients and administration tools.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-client-5.6.12-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;17.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-client-5.6.11-2.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;17.6 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-client-5.6.10-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;17.6 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.28-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;14.5 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
-  if set to 1 (default), the test suite will be run during the RPM build;
-  this can be oveeridden via the command line by adding
-      --define "runselftest 0"
-  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-client-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;14.4 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-client-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;406 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-client-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-client-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;359 KiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html+0:5.6.12-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-devel.html</link><pubDate>Tue, 21 May 2013 16:30:12 +0000</pubDate><title>Update: MySQL-devel-5.6.12-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-devel&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Development header files and libraries
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the development header files and libraries necessary
-to develop MySQL client applications.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-devel-5.6.12-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.2 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-devel-5.6.11-2.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.2 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-devel-5.6.10-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;3.2 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.28-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
-  if set to 1 (default), the test suite will be run during the RPM build;
-  this can be oveeridden via the command line by adding
-      --define "runselftest 0"
-  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-devel-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;4.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-devel-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;7.9 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-devel-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-devel-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;7.6 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html+0:5.6.12-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-embedded.html</link><pubDate>Tue, 21 May 2013 16:30:12 +0000</pubDate><title>Update: MySQL-embedded-5.6.12-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-embedded&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Embedded library
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the MySQL server as an embedded library.
-The embedded MySQL server library makes it possible to run a full-featured
-MySQL server inside the client application. The main benefits are increased
-speed and more simple management for embedded applications.
-The API is identical for the embedded MySQL version and the
-client/server version.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.6.12-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;80.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-embedded-5.6.11-2.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;79.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.6.10-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;79.6 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.28-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;49.0 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
-  if set to 1 (default), the test suite will be run during the RPM build;
-  this can be oveeridden via the command line by adding
-      --define "runselftest 0"
-  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-embedded-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-embedded-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;48.9 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html+0:5.6.12-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-server.html</link><pubDate>Tue, 21 May 2013 16:30:12 +0000</pubDate><title>Update: MySQL-server-5.6.12-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-server&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL: a very fast and reliable SQL database server
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		The MySQL(TM) software delivers a very fast, multi-threaded, multi-user,
-and robust SQL (Structured Query Language) database server. MySQL Server
-is intended for mission-critical, heavy-load production systems as well
-as for embedding into mass-deployed software. MySQL is a trademark of
-Oracle and/or its affiliates
-The MySQL software has Dual Licensing, which means you can use the MySQL
-software free of charge under the GNU General Public License
-(http://www.gnu.org/licenses/). You can also purchase commercial MySQL
-licenses from Oracle and/or its affiliates if you do not wish to be bound by the terms of
-the GPL. See the chapter "Licensing and Support" in the manual for
-further info.
-The MySQL web site (http://www.mysql.com/) provides the latest news and
-information about the MySQL software.  Also please see the documentation
-and the manual for more information.
-This package includes the MySQL server binary as well as related utilities
-to run and administer a MySQL server.
-If you want to access and work with the database, you have to install
-package "MySQL-client" as well!
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-server-5.6.12-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;54.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-server-5.6.11-2.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;53.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-server-5.6.10-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;53.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.28-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;40.1 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
-  if set to 1 (default), the test suite will be run during the RPM build;
-  this can be oveeridden via the command line by adding
-      --define "runselftest 0"
-  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-server-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;40.0 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.87-tritonn.1.0.12a.x86_64.rpm"&gt;MySQL-server-5.0.87-tritonn.1.0.12a.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;17.1 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2009-11-26)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12 with MySQL 5.0.87&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-server-5.0.67-tritonn.1.0.12.x86_64.rpm"&gt;MySQL-server-5.0.67-tritonn.1.0.12.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;15.9 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Tetsuro IKEDA (2008-12-09)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Tritonn 1.0.12&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html+0:5.6.12-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-shared.html</link><pubDate>Tue, 21 May 2013 16:30:12 +0000</pubDate><title>Update: MySQL-shared-5.6.12-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-shared&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Shared libraries
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the shared libraries (*.so*) which certain languages
-and applications need to dynamically load and use MySQL.
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-shared-5.6.12-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;1.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-shared-5.6.11-2.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;1.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-shared-5.6.10-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;1.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.28-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
-  if set to 1 (default), the test suite will be run during the RPM build;
-  this can be oveeridden via the command line by adding
-      --define "runselftest 0"
-  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-shared-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-shared-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;1.7 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/div&gt;</description></item><item><guid>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html+0:5.6.12-1.el6.x86_64</guid><link>http://y-ken.github.com/package/centos/6/x86_64/repoview//repoview/MySQL-test.html</link><pubDate>Tue, 21 May 2013 16:30:12 +0000</pubDate><title>Update: MySQL-test-5.6.12-1.el6</title><description>&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;div&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Package:&lt;/strong&gt; MySQL-test&lt;br /&gt;
-		&lt;strong&gt;Summary:&lt;/strong&gt; MySQL - Test suite
-	&lt;/p&gt;
-	&lt;p&gt;
-		&lt;strong&gt;Description:&lt;/strong&gt;&lt;br /&gt;
-		This package contains the MySQL regression test suite.
-For a description of MySQL see the base MySQL RPM or http://www.mysql.com/
-	&lt;/p&gt;
-	&lt;h3&gt;Changes:&lt;/h3&gt;
-	&lt;table cellpadding="0" cellspacing="5" border="0"&gt;
-        &lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.6.12-1.el6.x86_64.rpm"&gt;MySQL-test-5.6.12-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;47.1 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.6.11-2.el6.x86_64.rpm"&gt;MySQL-test-5.6.11-2.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;46.8 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.6.10-1.el6.x86_64.rpm"&gt;MySQL-test-5.6.10-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;46.6 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-11-05)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Allow to override the default to use the bundled yaSSL by an option like
-      --define="with_ssl /path/to/ssl"&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.28-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.28-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;31.4 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2012-07-24)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Add a macro "runselftest":
-  if set to 1 (default), the test suite will be run during the RPM build;
-  this can be oveeridden via the command line by adding
-      --define "runselftest 0"
-  Failures of the test suite will NOT make the RPM build fail!&lt;/pre&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;
-            &lt;td valign="top"&gt;&lt;a href="http://y-ken.github.com/package/centos/6/x86_64/repoview//MySQL-test-5.5.25a-1.el6.x86_64.rpm"&gt;MySQL-test-5.5.25a-1.el6.x86_64&lt;/a&gt;
-              [&lt;span style="white-space: nowrap"&gt;31.3 MiB&lt;/span&gt;]&lt;/td&gt;
-            &lt;td valign="top"&gt;
-              &lt;strong&gt;Changelog&lt;/strong&gt;
-              by &lt;span&gt;Joerg Bruehe (2011-09-28)&lt;/span&gt;:
-              &lt;pre style="margin: 0pt 0pt 5pt 5pt"&gt;- Fix duplicate mentioning of "mysql_plugin" and its manual page,
-  it is better to keep alphabetic order in the files list (merging!).&lt;/pre&gt;
             &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/table&gt;
